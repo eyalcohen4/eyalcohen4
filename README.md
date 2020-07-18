@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello World 🌎⚽
 
-<!--
-**eyalcohen4/eyalcohen4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[Visit My Website](https://coheneyal.com) [React Native Israel Job Board](reactnative.co.il) 
+I'm Eyal, 23, Software Engineer from Tel Aviv. I also study Psychology at the Open University Of Israel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now i'm working on teaching people React Native, and building my own products.
+I'm also available for freelance!
+
+🔭 I use `.js` mainly, and I love, React + React Native.
+
+📽️ I lately built an [app that helps Students in my university](https://kvozut.co.il), and [React Native Israeli Job Board](reactnative.co.il).
+
+⚽ I love to play, watch, talk and everything else about Football (if you play Football Manager, ping me ASAP).
+
+💬 I'm also [writing a blog](https://coheneyal.com) at my own website.
+
+📬 I'm always available on [Twitter](https://twitter.com/coheneyal4), send me a message there too!
+
+🍕 Fun Fact: I once built Pizza Hut Israeli website.
+
+[Let me know how can I help you.](https://twitter.com/coheneyal4)
