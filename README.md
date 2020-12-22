@@ -1,7 +1,7 @@
 ### Hello World 🌎⚽
 
 
-[Visit My Website](https://coheneyal.com) | [React Native Israel Job Board](reactnative.co.il)
+[Visit My Website](https://coheneyal.com)
 
 I'm Eyal, 23, Software Engineer from Tel Aviv. I also study Psychology at the Open University Of Israel.
 Right now i'm doing consulting for various companies.
