@@ -3,13 +3,13 @@
 
 [Visit My Website](https://coheneyal.com)
 
-I'm Eyal, 23, Software Engineer from Tel Aviv. I also study Psychology at the Open University Of Israel.
+I'm Eyal, Software Engineer from Tel Aviv. I also study psychology at the Open University Of Israel.
 Right now i'm doing consulting for various companies.
 I love teaching people about code, and building my own products.
 
 🔭 I use `.js` mainly, and I really love React, React Native, and Node.js.
 
-📕 I'm primarly using AWS Amplify and Vercel to build my products.
+📕 I'm using AWS and Vercel to deploy my products.
 
 📽️ I lately wrote an [hebrew book teaching React Native](https://gumroad.com/l/zero-to-app-react-native/), built an [app that helps Students in my university](https://kvozut.co.il), and the [React Native Israeli Job Board](reactnative.co.il).
 
