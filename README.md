@@ -4,7 +4,7 @@
 [Visit My Website](https://coheneyal.com)
 
 I'm Eyal, Software Engineer from Tel Aviv. I also study psychology at the Open University Of Israel.
-Right now i'm doing consulting for various companies.
+Right now I'm doing consulting for various companies.
 I love teaching people about code, and building my own products.
 
 🔭 I use `.js` mainly, and I really love React, React Native, and Node.js.
