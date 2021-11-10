@@ -20,5 +20,3 @@ I love teaching people about code, and building my own products.
 📬 I'm always available on [Twitter](https://twitter.com/coheneyal4), send me a message there too!
 
 🍕 Fun Fact: I once built Pizza Hut Israeli website.
-
-[Let me know how can I help you.](https://twitter.com/coheneyal4)
